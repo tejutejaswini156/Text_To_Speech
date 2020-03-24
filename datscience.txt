@@ -1,0 +1,28 @@
+2..........Data Science requires a lot of mathematical concepts understanding, such as:
+
+Calculus, linear algebra, trigonometry, etc.
+Probabilities and distributions
+Then, you’ll obviously need to know about machine learning, including:
+
+Inference, regression, clustering, tests
+Time Series, Survival Analysis
+CART, Random Forests, Map/Reduce, Feature selection
+Models comparison
+Neural networks, Deep learning
+Computer vision, natural language processing, geolocation handling
+Obviously, to be able to apply this knowledge, you need to be able to master IT Tools, such as:
+
+Programming (R, Python, SAS, Java, whichever)
+Software (SPSS, Spark, etc.)
+Since you’ll be wrangling with data so much, you need to be able to feel comfortable with:
+
+Databases (SQL and NOSQL)
+Web languages and web semantics to extract data from websites
+Data visualization
+And finally, there are other non-obvious skills you’ll need to be a Data Scientist:
+
+Communication and presentation (you are a specialist, and will most probably need to explain your findings to non-technicians to get them to adopt your recommandations)
+Law an ethics, as it would be too easy, with the whole set of tools and technical assets that a data scientis has, to pursue wrong actions or even illegal activities, so it is important to know some boundaries
+IT architecture, IT security, Cloud Computing. This is not of direct responsibility for a data scientist, but a good one should be smart enough not to take risks, and to take advantage of the best resources around him/her.
+Project management, etc 
+ site:    https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/#three
